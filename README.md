@@ -1,0 +1,2 @@
+The purpose of this read me file is to let you know I made one and it was complicated but I did it. 
+No really, the purpose of this read me file is to say so far my only project in the repository is tic-tac-toe. 
