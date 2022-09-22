@@ -93,8 +93,8 @@ def main():
 
 #write program protocol if player wants to continue playing or quite.
     play_again = input("Do you want to play again? Type Yes or No.")
-    if play_again == "Yes":
-        for number in number_keypad:
+    while play_again == "Yes":
+        if number in number_keypad:
             createBoard[number] = " " 
         main()
     else: 
